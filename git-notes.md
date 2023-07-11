@@ -19,3 +19,7 @@ Use the command `git commit -m 'first commit'`
 ## To see a log of your commits
 
 Use the command `git log --oneline`
+
+## To push repo to GitHub
+
+After you have committed your changes you can use the following the command: `git push`
