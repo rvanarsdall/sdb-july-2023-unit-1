@@ -1,0 +1,22 @@
+.content-box {
+  background: lightblue;
+  width: 500px;
+  height: 50px;
+  padding: 25px;
+  border: 5px solid red;
+}
+
+.spacer {
+  width: 500px;
+  height: 50px;
+  background: gray;
+}
+
+.border-box {
+  background: lightgreen;
+  width: 500px;
+  /* height: 50px; */
+  padding: 25px;
+  border: 5px solid red;
+  box-sizing: border-box;
+}
