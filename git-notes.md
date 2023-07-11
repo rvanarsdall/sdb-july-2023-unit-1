@@ -23,3 +23,10 @@ Use the command `git log --oneline`
 ## To push repo to GitHub
 
 After you have committed your changes you can use the following the command: `git push`
+
+# Already have a repo or a github repo and you want to update with changes.
+
+1. `git add .`
+2. `git status` - to verify (optional)
+3. `git commit -m "ADD NEW MESSAGE HERE"` - Ex "added styling" or "fixed bug"
+4. `git push origin main`
