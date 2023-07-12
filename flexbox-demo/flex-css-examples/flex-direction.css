@@ -1,0 +1,10 @@
+.container {
+  display: flex;
+  outline: 5px solid brown;
+}
+
+@media screen and (max-width: 900px) {
+  .container {
+    flex-direction: column;
+  }
+}

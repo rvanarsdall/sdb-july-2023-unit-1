@@ -1,0 +1,12 @@
+.container {
+  display: flex;
+  outline: 5px solid brown;
+}
+
+#about {
+  flex: 2;
+}
+
+#logout {
+  flex: 3;
+}
